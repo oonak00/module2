@@ -4,12 +4,12 @@
 
 <head>
     <link rel="stylesheet" href="poem.css">
-    <title> kindness </title>
+    <title> poem of kindness </title>
     <meta charset="UTF-8">
 	<!-- this is an assigment -->
 </head>
 <body>
-    <h1>poem</h1>  
+    <h1>kindness</h1>  
     <h2>Naomi Shihab Nye, 1952</h2> 
 
     <p>Before you know what kindess really is you must lose things</p>
