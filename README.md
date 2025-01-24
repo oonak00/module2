@@ -20,7 +20,8 @@
     <p>How you ride and ride thinking the bus will never stop, the passengers eating maize and chicken</p>
     <p> will stare out the window forever.</p>
     <script>
-        //commentt
+        //*commentt
+	*// here
         //assigment
      </script>
 </body>
