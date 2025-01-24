@@ -7,6 +7,20 @@
     <title> Poem </title>
     <meta charset="UTF-8">
 	<!-- this is an assigment -->
+	body {
+    background-color:lightgoldenrodyellow;
+  }
+  
+  h1 {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+  }
 </head>
 <body>
     <h1>Kindness</h1>  
