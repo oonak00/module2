@@ -21,7 +21,7 @@
     <p> will stare out the window forever.</p>
     <script>
         //*commentt
-	*// here
+        *// here
         //assigment
      </script>
 </body>
