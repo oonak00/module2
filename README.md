@@ -11,7 +11,6 @@
 <body>
     <h1>Kindness</h1>  
     <h2>Naomi Shihab Nye, 1952</h2> 
-    <h3>Poem</h3>
 
     <p>Before you know what kindess really is you must lose things</p>
     <p>Feel the future dissolve in a moment like salt in a weakened broth.</p>
@@ -24,19 +23,6 @@
         *// here
         //assigment
      </script>
-         background-color:lightgoldenrodyellow;
-  }
-  
-  h1 {
-    color: black;
-    font-size: 40px;
-    text-align: center;
-  }
-  
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
-  }
 </body>
 
 </html>
